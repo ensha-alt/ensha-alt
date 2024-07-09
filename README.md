@@ -2,6 +2,7 @@
 - 👀 I’m interested in 🌍 ... exploring new technologies and learning from others in the tech community.
 - 🌱 I’m currently learning ... SQL commands,Python and Data science using python.
 - 💞️ I’m looking to collaborate on ... projects that enhance my skills and contribute positively to the tech community. Let's connect and learn together!
+- 👩🏼‍💻 My technical skills are C language, RDBMS and SQL.
 - 📫 How to reach me ...inshafarhan55@gmail.com
   
 
