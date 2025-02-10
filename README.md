@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ensha-alt
 - 👀 I’m interested in 🌍 ... exploring new technologies and learning from others in the tech community.
-- 🌱 I’m currently learning ... Data science using python.
+- 🌱 I’m currently learning ... Data Analysis using python.
 - 💞️ I’m looking to collaborate on ... projects that enhance my skills and contribute positively to the tech community. Let's connect and learn together!
 - 👩🏼‍💻 My technical skills are... Data and file structure ,C language and python, RDBMS and SQL.
 - 📫 How to reach me ...inshafarhan55@gmail.com
