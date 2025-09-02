@@ -22,6 +22,9 @@
   <img src="https://matplotlib.org/_static/logo_light.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/ibm.png" alt="IBM Cognos Analytics" width="40" height="40"/>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -30,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-  
 
 <!---
 ensha-alt/ensha-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
